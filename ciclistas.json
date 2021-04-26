@@ -1,0 +1,21 @@
+{"_id":1,"nombre":"Miguel Induráin","edad":32,"nomeq":"Banesto","etapas_g":[{"netapa":1,"salida":"Valladolid","llegada":"Valladolid"},{"netapa":8,"salida":"Benidorm","llegada":"Benidorm"}],"puertos_g":[{"nompuerto":"Puerto de Alisas"}],"maillots_g":[{"netapa":1,"codigo":"MGE"},{"netapa":1,"codigo":"MMO"},{"netapa":1,"codigo":"MMV"},{"netapa":1,"codigo":"MRE"},{"netapa":1,"codigo":"MSE"},{"netapa":2,"codigo":"MGE"},{"netapa":3,"codigo":"MGE"},{"netapa":4,"codigo":"MGE"},{"netapa":16,"codigo":"MGE"},{"netapa":17,"codigo":"MGE"},{"netapa":18,"codigo":"MGE"},{"netapa":19,"codigo":"MGE"},{"netapa":20,"codigo":"MGE"},{"netapa":21,"codigo":"MGE"}]}
+{"_id":2,"nombre":"Pedro Delgado","edad":35,"nomeq":"Banesto","etapas_g":[{"netapa":10,"salida":"Igualada","llegada":"Andorra"},{"netapa":19,"salida":"Ávila","llegada":"Destilerias Dyc"},{"netapa":20,"salida":"Segovia","llegada":"Destilerias Dyc"}],"puertos_g":[{"nompuerto":"Coll de la Comella"},{"nompuerto":"Navacerrada"},{"nompuerto":"Puerto de la Morcuera"},{"nompuerto":"Puerto de Navalmoral"}],"maillots_g":[{"netapa":5,"codigo":"MGE"},{"netapa":6,"codigo":"MGE"},{"netapa":7,"codigo":"MGE"},{"netapa":21,"codigo":"MMO"}]}
+{"_id":3,"nombre":"Alex Zulle","edad":27,"nomeq":"ONCE","maillots_g":[{"netapa":11,"codigo":"MGE"},{"netapa":12,"codigo":"MGE"}]}
+{"_id":4,"nombre":"Tony Rominger","edad":30,"nomeq":"Mapei-Clas","etapas_g":[{"netapa":17,"salida":"Cangas de Onis","llegada":"Alto del Naranco"}],"puertos_g":[{"nompuerto":"Arcalis"}],"maillots_g":[{"netapa":8,"codigo":"MGE"}]}
+{"_id":5,"nombre":"Gert-Jan Theunisse","edad":32,"nomeq":"TVM","etapas_g":[{"netapa":16,"salida":"Santander","llegada":"Lagos de Covadonga"}]}
+{"_id":6,"nombre":"Adriano Baffi","edad":33,"nomeq":"Mercatone Uno"}
+{"_id":7,"nombre":"Massimiliano Lelli","edad":30,"nomeq":"Mercatone Uno","puertos_g":[{"nompuerto":"Coll de Ordino"}]}
+{"_id":8,"nombre":"Jean Van Poppel","edad":33,"nomeq":"Lotus Festina","etapas_g":[{"netapa":18,"salida":"Ávila","llegada":"Ávila"}],"maillots_g":[{"netapa":2,"codigo":"MSE"},{"netapa":4,"codigo":"MSE"}]}
+{"_id":9,"nombre":"Massimo Podenzana","edad":34,"nomeq":"Navigare","puertos_g":[{"nompuerto":"Cerler-Circo de Ampriu"}]}
+{"_id":10,"nombre":"Mario Cipollini","edad":28,"nomeq":"Mercatone Uno","etapas_g":[{"netapa":15,"salida":"Santo Domingo de la Calzada","llegada":"Santander"}],"maillots_g":[{"netapa":18,"codigo":"MSE"}]}
+{"_id":11,"nombre":"Flavio Giupponi","edad":31,"nomeq":"Bresciali-Refin"}
+{"_id":12,"nombre":"Alessio Di Basco","edad":31,"nomeq":"Amore Vita","etapas_g":[{"netapa":3,"salida":"Salamanca","llegada":"Caceres"},{"netapa":12,"salida":"Benasque","llegada":"Zaragoza"}],"maillots_g":[{"netapa":3,"codigo":"MSE"},{"netapa":5,"codigo":"MSE"},{"netapa":6,"codigo":"MSE"}]}
+{"_id":13,"nombre":"Lale Cubino","edad":28,"nomeq":"Seguros Amaya"}
+{"_id":14,"nombre":"Roberto Pagnin","edad":33,"nomeq":"Navigare"}
+{"_id":15,"nombre":"Jesper Skibby","edad":31,"nomeq":"TVM"}
+{"_id":16,"nombre":"Dimitri Konishev","edad":29,"nomeq":"Jolly Club","maillots_g":[{"netapa":2,"codigo":"MMV"},{"netapa":3,"codigo":"MMV"},{"netapa":5,"codigo":"MMV"},{"netapa":6,"codigo":"MMV"}]}
+{"_id":17,"nombre":"Bruno Leali","edad":37,"nomeq":"Bresciali-Refin","maillots_g":[{"netapa":4,"codigo":"MMV"}]}
+{"_id":18,"nombre":"Robert Millar","edad":37,"nomeq":"TVM"}
+{"_id":19,"nombre":"Julian Gorospe","edad":34,"nomeq":"Banesto"}
+{"_id":20,"nombre":"Alfonso Gutiérrez","edad":29,"nomeq":"Artiach","puertos_g":[{"nompuerto":"Cruz de la Demanda"}],"maillots_g":[{"netapa":6,"codigo":"MRE"},{"netapa":7,"codigo":"MRE"},{"netapa":8,"codigo":"MRE"},{"netapa":9,"codigo":"MRE"},{"netapa":10,"codigo":"MRE"},{"netapa":11,"codigo":"MRE"},{"netapa":12,"codigo":"MRE"},{"netapa":13,"codigo":"MRE"},{"netapa":14,"codigo":"MRE"},{"netapa":15,"codigo":"MRE"},{"netapa":16,"codigo":"MRE"},{"netapa":17,"codigo":"MRE"},{"netapa":18,"codigo":"MMV"},{"netapa":19,"codigo":"MRE"},{"netapa":20,"codigo":"MRE"},{"netapa":21,"codigo":"MRE"}]}
+{"_id":21,"nombre":"Erwin Nijboer","edad":31,"nomeq":"Artiach"}
